@@ -1,3 +1,8 @@
+
+**Update: I have no idea if this still works.**
+
+---
+
 # disable-liquid-glass
 
 I don't mind liquid glass, personally.
